@@ -1,1 +1,1 @@
-lonsole.log('!!');
+console.log('!!');
