@@ -1,0 +1,14 @@
+{
+  "name": "app",
+  "version": "0.0.1",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "dependencies": {
+    "express": "~4.8.5",
+    "underscore": "~1.4.4",
+    "mongodb": "~1.4.8",
+    "less-middleware": "~1.0.3",
+    "hjs": "0.0.6"
+  },
+}
